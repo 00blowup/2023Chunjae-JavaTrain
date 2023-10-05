@@ -2,7 +2,7 @@ package Oct05;
 
 import java.util.Scanner;
 
-public class ArraySumAndAvgEx {
+public class OneDimensionArraySumAndAvgEx {
     // 배열에 들어있는 정수의 평균을 구하고, 평균의 총합을 출력하는 코드
     public static void main(String[] args) {
         int[] a = new int[3];

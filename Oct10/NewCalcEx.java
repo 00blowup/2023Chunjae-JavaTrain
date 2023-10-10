@@ -38,7 +38,7 @@ public class NewCalcEx {
         }
 
         // 입력이 문제 없이 완료되었다면 계산 수행 후 결과 출력
-        System.out.printf("계산 결과: %.2f", calc.calculate(operator, a, b));
+        System.out.printf("%d %s %d = %.2f", a, operator, b, calc.calculate(operator, a, b));
 
         // Scanner close
         sc.close();

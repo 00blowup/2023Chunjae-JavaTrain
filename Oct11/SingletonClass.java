@@ -3,7 +3,7 @@ package Oct11;
 public class SingletonClass {
 
     // 인스턴스를 private 필드로 생성
-    private static SingletonClass singletonClass = new SingletonClass();
+    private static final SingletonClass singletonClass = new SingletonClass();
 
     // 생성자를 private로 선언
     private SingletonClass () {

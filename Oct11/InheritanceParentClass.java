@@ -9,6 +9,6 @@ public class InheritanceParentClass {
     public InheritanceParentClass (String model, String color) {
         this.model = model;
         this.color = color;
-        System.out.println("부모 생성자 실행");
+        System.out.println("부모 클래스 생성자 실행");
     }
 }

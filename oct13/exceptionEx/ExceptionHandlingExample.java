@@ -1,7 +1,5 @@
 package oct13.exceptionEx;
 
-import java.sql.SQLOutput;
-
 public class ExceptionHandlingExample {
     // Exception 핸들링을 실습하기 위한 코드
     public static void printLength(String data) {

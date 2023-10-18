@@ -1,4 +1,4 @@
-package oct18.linkedListEx;
+package oct18.arrayAndLinkedListEx;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

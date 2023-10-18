@@ -1,4 +1,4 @@
-package oct18.libraryEx;
+package oct18.arrayListEx;
 
 import java.util.ArrayList;
 

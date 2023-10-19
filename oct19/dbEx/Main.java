@@ -16,7 +16,7 @@ public class Main {
             //연결하기
 
             conn = DriverManager.getConnection(
-                    "jdbc:mariadb://127.0.0.1:3307/1019chunjae", //java_prj는 스키마 이름
+                    "jdbc:mariadb://127.0.0.1:3307/1019chunjae", //1019chunjae는 스키마 이름
                     "root",
                     "12345"
             );
